@@ -1,3 +1,4 @@
+### note from me i don't plan to do anything with this lol
 # Discohook
 
 An easy-to-use tool for building and sending Discord messages and embeds using webhooks.
